@@ -1,0 +1,238 @@
+# Copyright (C) 2020 CodersUX
+# This file is distributed under the same license as the WooCommerce Wholesale Pricing plugin.
+msgid ""
+msgstr ""
+"Project-Id-Version: WooCommerce Wholesale Pricing 1.0.0\n"
+"Report-Msgid-Bugs-To: https://wordpress.org/support/plugin/wc-wholesale-pricing\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"POT-Creation-Date: 2020-07-24T05:25:42+00:00\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"X-Generator: WP-CLI 2.2.0\n"
+"X-Domain: wc-wholesale-pricing\n"
+
+#. Plugin Name of the plugin
+msgid "WooCommerce Wholesale Pricing"
+msgstr ""
+
+#. Plugin URI of the plugin
+msgid "https://codersux.com/product/wc-wholesale-pricing"
+msgstr ""
+
+#. Description of the plugin
+msgid "This plugin allows administrator to set the product's wholesale prices."
+msgstr ""
+
+#. Author of the plugin
+msgid "CodersUX"
+msgstr ""
+
+#. Author URI of the plugin
+msgid "https://codersux.com"
+msgstr ""
+
+#: includes/wc-wholesale-pricing-functions.php:33
+msgid "Non-loggedin"
+msgstr ""
+
+#: includes/wc-wholesale-pricing-functions.php:77
+msgid "Wholesale Notice"
+msgstr ""
+
+#: includes/wc-wholesale-pricing-functions.php:122
+msgid "Add [quantity] unit(s) more of this product to avail the wholesale price of [price]."
+msgstr ""
+
+#: includes/wc-wholesale-pricing-functions.php:141
+msgid "This sets the min. quantity to be purchased to avail wholesale pricing option."
+msgstr ""
+
+#: includes/wc-wholesale-pricing-functions.php:168
+msgid "This sets the wholesale price for this product."
+msgstr ""
+
+#: includes/wc-wholesale-pricing-functions.php:359
+msgid "There's no wholesale product available."
+msgstr ""
+
+#: includes/wc-wholesale-pricing-functions.php:387
+msgid "Product"
+msgstr ""
+
+#: includes/wc-wholesale-pricing-functions.php:391
+#: public/class-wc-wholesale-pricing-public.php:308
+msgid "Wholesale Price"
+msgstr ""
+
+#: includes/wc-wholesale-pricing-functions.php:395
+msgid "Stock"
+msgstr ""
+
+#: includes/wc-wholesale-pricing-functions.php:399
+msgid "Quantity"
+msgstr ""
+
+#: includes/wc-wholesale-pricing-functions.php:403
+msgid "#"
+msgstr ""
+
+#: includes/wc-wholesale-pricing-functions.php:479
+msgid "Add to cart"
+msgstr ""
+
+#: includes/wc-wholesale-pricing-functions.php:528
+#: includes/wc-wholesale-pricing-functions.php:532
+#: includes/wc-wholesale-pricing-functions.php:543
+msgid "In Stock"
+msgstr ""
+
+#: includes/wc-wholesale-pricing-functions.php:528
+msgid "Available on backorder"
+msgstr ""
+
+#: includes/wc-wholesale-pricing-functions.php:536
+#: includes/wc-wholesale-pricing-functions.php:547
+msgid "Not In Stock"
+msgstr ""
+
+#: admin/class-wc-wholesale-pricing-admin.php:99
+msgid "Wholesale pricing"
+msgstr ""
+
+#: admin/class-wc-wholesale-pricing-admin.php:130
+msgid "General"
+msgstr ""
+
+#: admin/class-wc-wholesale-pricing-admin.php:136
+msgid "Allowed User Roles"
+msgstr ""
+
+#: admin/class-wc-wholesale-pricing-admin.php:140
+msgid "This holds the wholesale pricing to the currently loggedin user role. Leave blank to allow for all roles."
+msgstr ""
+
+#: admin/class-wc-wholesale-pricing-admin.php:146
+msgid "Product's Page Notice"
+msgstr ""
+
+#: admin/class-wc-wholesale-pricing-admin.php:149
+msgid "This holds the wholesale notice being displayed on product details page."
+msgstr ""
+
+#: admin/class-wc-wholesale-pricing-admin.php:152
+msgid "Use constant [min_quantity] and [price] for setting the message."
+msgstr ""
+
+#: admin/class-wc-wholesale-pricing-admin.php:162
+msgid "WC Cart"
+msgstr ""
+
+#: admin/class-wc-wholesale-pricing-admin.php:168
+msgid "Enable Cart Notice"
+msgstr ""
+
+#: admin/class-wc-wholesale-pricing-admin.php:169
+msgid "This enables showing the wholesale notice for the items in cart."
+msgstr ""
+
+#: admin/class-wc-wholesale-pricing-admin.php:174
+msgid "Cart Item Notice Title"
+msgstr ""
+
+#: admin/class-wc-wholesale-pricing-admin.php:177
+msgid "This holds the wholesale notice title for cart item."
+msgstr ""
+
+#: admin/class-wc-wholesale-pricing-admin.php:180
+msgid "Default: Wholesale Notice"
+msgstr ""
+
+#: admin/class-wc-wholesale-pricing-admin.php:183
+msgid "Cart Item Notice Message"
+msgstr ""
+
+#: admin/class-wc-wholesale-pricing-admin.php:186
+msgid "This holds the wholesale notice message for cart item."
+msgstr ""
+
+#: admin/class-wc-wholesale-pricing-admin.php:189
+msgid "Default: Add [quantity] unit(s) more of this product to avail the wholesale price of [price]."
+msgstr ""
+
+#: admin/class-wc-wholesale-pricing-admin.php:199
+msgid "Dokan Support"
+msgstr ""
+
+#: admin/class-wc-wholesale-pricing-admin.php:205
+msgid "Show Wholesale Products Tab on Store Single Page"
+msgstr ""
+
+#: admin/class-wc-wholesale-pricing-admin.php:206
+msgid "This enables showing the wholesale products tab on the store single page."
+msgstr ""
+
+#: admin/class-wc-wholesale-pricing-admin.php:324
+msgid "Wholesale Pricing Options"
+msgstr ""
+
+#: admin/class-wc-wholesale-pricing-admin.php:327
+msgid "Min. Qty"
+msgstr ""
+
+#: admin/class-wc-wholesale-pricing-admin.php:334
+msgid "Price"
+msgstr ""
+
+#: public/class-wc-wholesale-pricing-public.php:94
+msgid "Invalid product ID."
+msgstr ""
+
+#: public/class-wc-wholesale-pricing-public.php:95
+msgid "Invalid product quantity."
+msgstr ""
+
+#: public/class-wc-wholesale-pricing-public.php:97
+msgid "Processing..."
+msgstr ""
+
+#: public/class-wc-wholesale-pricing-public.php:98
+msgid "Success"
+msgstr ""
+
+#: public/class-wc-wholesale-pricing-public.php:99
+msgid "Error"
+msgstr ""
+
+#: public/class-wc-wholesale-pricing-public.php:100
+msgid "Action couldn't be taken due to security failure. Please try again later."
+msgstr ""
+
+#: public/class-wc-wholesale-pricing-public.php:285
+msgid "Wholesale Min. Quantity"
+msgstr ""
+
+#. translators: 1: %s: product title, 2: %d: product quantity
+#: public/class-wc-wholesale-pricing-public.php:507
+msgid "%1$s has been added to cart with quantity %2$d."
+msgstr ""
+
+#: public/class-wc-wholesale-pricing-public.php:551
+#: public/class-wc-wholesale-pricing-public.php:561
+msgid "Wholesale Products"
+msgstr ""
+
+#: public/class-wc-wholesale-pricing-public.php:675
+msgid "Wholesale!"
+msgstr ""
+
+#. translators: 1: %s: string tag open, 2: %s: strong tag close, 3: %s: this plugin, 4: %s: woocommerce plugin
+#: wc-wholesale-pricing.php:119
+msgid "%1$s%3$s%2$s is ineffective as it requires %1$s%4$s%2$s to be installed and active. Click %5$shere%6$s to install or activate it."
+msgstr ""
+
+#: wc-wholesale-pricing.php:134
+msgid "Settings"
+msgstr ""
